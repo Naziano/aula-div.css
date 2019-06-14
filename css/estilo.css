@@ -1,0 +1,47 @@
+/*
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p {
+    background: chocolate;
+    color: blueviolet;
+    font-style: italic;
+    font-size: 16pt;
+    margin: 0px 40px;
+    border-radius: 10px;
+}
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+@font-face {
+    font-family: unbutu;
+    src: url('../fonts/Unbutu-Regular.ttf');
+}
+
+#titulo2 {color: blue
+}
+
+.alinhamento-centralizado {
+    text-align: center;
+}
+
+.cor-fonte-azul {
+    color: blue
+}
+
+ .texto-em-maiusculo {
+    text-transform: uppercase
+}
+
+#autor {
+    font-family: 'unbutu', 'arial';
+    font-size: 28pt;
+    font-weight: bold;
+    text-align: right;
+    color:darkcyan
+}
