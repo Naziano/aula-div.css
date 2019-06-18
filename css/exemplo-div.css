@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#corpo {
+background-color:gray;
+width: 500px;
+margin: auto;
+}
+
+#cabecalho{
+    background-color: aquamarine;
+}
+
+#conteudo{
+background-color:yellow;
+height: 400px;
+
+}
+
+#rodape{
+background-color:thistle;
+}
+
+#menu {
+background-color: brown;
+width: 80px;
+height: 380px;
+padding: 10px;
+float: left;
+}
+
+#texto {
+background-color: blueviolet;
+width: 400px;
+height: 400px;
+float: right;
+}
